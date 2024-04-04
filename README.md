@@ -2,6 +2,8 @@
 
 Welcome to the Next.js Full-stack starter template! This template provides a starting point for creating full-stack applications with Next.js.
 
+https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d
+
 ![Next.js](https://img.shields.io/badge/next.js-242424?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Next-Auth](https://img.shields.io/badge/Next%20Auth-563D7C?style=for-the-badge&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
